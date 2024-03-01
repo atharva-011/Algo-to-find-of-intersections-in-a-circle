@@ -1,4 +1,4 @@
-# Structify Take Home Assesment
+# Algorithm to find number of intersections in a circle
 ## Atharva Kulkarni (atharva.kulkarni@columbia.edu)
 
 
