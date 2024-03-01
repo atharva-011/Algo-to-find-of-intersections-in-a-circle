@@ -4,15 +4,15 @@
 
 ## Overview
 
-This README.md file provides a brief summary of the suggested approach/ solution for the Take Home Question. Here I am implementing an algorithm for efficiently finding and counting the number of intersections give a list of chords in a circle.  My preferred language is Python, FYI.
+Here I am implementing an algorithm for efficiently finding and counting the number of intersections give a list of chords in a circle.  My preferred language is Python, FYI.
 
 I have also stated the relavent assumptions and analyzed the runtime of the proposed algorithm as per the instructions.
 
 ### Assumptions
 1. All starting "s_x" and ending point "e_x" are unique i.e. no overlap of start and end points
  
-	 Eg: The case `[(0.5, 0.5, 1, 1.5), ("s_1", "s_2", "e_2", "e_1")]` will not be considered for our question.
-2. Considering the format of identifiers as "s_x" and "e_x" as mentioned in the Input section of the question for consistency and simplicity.
+	 Eg: The case `[(0.5, 0.5, 1, 1.5), ("s_1", "s_2", "e_2", "e_1")]` will not be considered.
+2. Considering the format of identifiers as "s_x" and "e_x" for consistency and simplicity.
 
 ## Working of the proposed algorithm
 
